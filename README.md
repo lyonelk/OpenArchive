@@ -1,6 +1,6 @@
 # OpenArchive
 Textes et documents mis en accès libre.
-Il s’agira de divers textes rédigés et si à disposition du public.
+Il s’agira de divers textes rédigés et mis à disposition du public.
 
 Ces textes sont relatifs à mes réflexions concernant 
 - la pensée computationnelle et l’enseignement de l’histoire
